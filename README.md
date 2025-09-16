@@ -55,7 +55,7 @@ Currently, I am exploring opportunities in **Product Management** and **Data Ana
 
 ---
 
-## 📜 Certifications [drive](https://drive.google.com/drive/folders/1Pb0ETif6GLnGZFuwDQUeOek1T5oORIhC)
+## 📜 Certifications [🔗](https://drive.google.com/drive/folders/1Pb0ETif6GLnGZFuwDQUeOek1T5oORIhC)
 - **BNSP Certified Data Analyst** (2025)  
 - Oracle Certified  
 - SQL Certification  
