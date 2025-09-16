@@ -16,20 +16,23 @@ Currently, I am exploring opportunities in **Product Management** and **Data Ana
 
 ## 💼 Experience
 
-**Product Intern — Traveloka**  
-- Designed and executed product roadmaps aligned with user needs and business goals.  
-- Conducted market analysis and competitor benchmarking to support strategic decisions.  
-- Collaborated cross-functionally to deliver feature improvements that enhanced user engagement.  
+**Product Development & Operations Intern — PT Telekomunikasi Selular (Telkomsel)**  
+*Sep 2024 – Dec 2024*  
+- Contributed to the launch of **V-NSP** on the Telkomsel Super App, generating **IDR 100M+ revenue in July**, through competitor benchmarking (5+) and targeted customer journey mapping.  
+- Supported development readiness in the Convergence team by documenting **100+ API libraries** and identifying **5+ critical bugs** during beta testing.  
+- Prepared and refined **10+ product decks**, enabling smooth communication with stakeholders across India, Canada, and Singapore.  
 
-**Freelance Product Manager — Anitech**  
-- Managed project timelines, Jira tasks, and cross-functional collaboration.  
-- Handled UI/UX improvements for better user experience and usability.  
-- Achieved successful delivery metrics with >90% on-time completion.  
+**Associate Product Manager Intern — PT Ivonesia Solusi Data (Ivosights)**  
+*Feb 2024 – Jun 2024*  
+- Led the development of an **internal LMS** for 200+ employees, coordinating 3 intern teams and aligning project outcomes with business needs.  
+- Produced **10+ PRDs and product briefs** for Ripple10 and Sociomile, and conducted **7 competitor pricing & plan analyses**, shaping Sociomile’s pricing and positioning strategy.  
+- Documented requirements and created mind-maps for **WhatsApp–email marketing integration**, enhancing the WhatsApp Business API (WABA) offering.  
 
-**Data & Visualization Intern — DCI (Direktorat SFPA)**  
-- Built dashboards and visual storytelling for organizational data.  
-- Conducted data cleaning and preprocessing for accurate insights.  
-- Created BI reports that improved decision-making speed by 30%.  
+**Product Manager Intern — Terra AI Singapore Pte. Ltd.**  
+*Feb 2022 – Jan 2023*  
+- Designed a strategic plan to improve product features and user experience, ensuring continuous improvement aligned with user needs.  
+- Oversaw the development of **100+ chatbots** within the Ai4impact community, managing testing, iteration, and updates for high-quality performance.  
+- Built a **roadmap for Ai4impact Career Scholarship 2.0** and led the **Technical Recruiter Team** for Developer Scholarship 2.0, engaging and guiding **150 finalists**. 
 
 ---
 
